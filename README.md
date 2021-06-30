@@ -5,5 +5,7 @@ Our task fosters a plotting apparatus that creates graphs for the CO2 and CH4 in
 # Model Description
 
 This is source code will give you all an overview of what our project is.
-Our code is divided into three sections :
+<br>
+<b>Our code is divided into three sections :</b>
+<br>
 In the beginning the home page is displayed which contains the option to be redirected to our first and main section of the code which displays the global map with indicator levels and data
