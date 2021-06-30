@@ -4,7 +4,7 @@
 
 # Model Description
 
-### This is source code will give you all an overview of what our project is.
+### This source code will give you an overview of what our project is.
 
 ## Our code is divided into four sections :
 
@@ -19,3 +19,9 @@
 ### • Features : The feature option on the top right corner of the home page will redirect you to a HTML file which will give you a visualization of our project in the coming future. We would possibly integrate the data of NO2 with CH4 and CO2 in order to make our product more feasible and simple.
 
 <img src="images/fscope.png">
+
+### • Data Analysis : On the Top right corner of the home page, the data analysis sector contains the documentation of our case studies(in pdf format). We have integrated the datasets of the emission levels for CO2 and CH4 for both layers of troposphere in the same graph.
+
+## <i>You can also access the data analysis documentation from below</i>
+
+<a href = "">Data Analysis</a>
