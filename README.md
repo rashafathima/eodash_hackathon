@@ -7,7 +7,9 @@ Our task fosters a plotting apparatus that creates graphs for the CO2 and CH4 in
 This is source code will give you all an overview of what our project is.
 <br>
 <br>
-## <b>Our code is divided into four sections :</b>
+
+## Our code is divided into four sections :
 <br>
-### Home page : Initially the home page is displayed which contains the choice to be diverted to our first and primary part of the code which shows the worldwide map with pointer levels and information. 
+
+### • Home page : Initially the home page is displayed which contains the choice to be diverted to our first and primary part of the code which shows the worldwide map with pointer levels and information. 
 
