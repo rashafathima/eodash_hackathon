@@ -22,6 +22,20 @@
 
 ### • Data Analysis : On the Top right corner of the home page, the data analysis sector contains the documentation of our case studies(in pdf format). We have integrated the datasets of the emission levels for CO2 and CH4 for both layers of troposphere in the same graph.
 
-## <i>You can also access the data analysis documentation from below</i>
+### <i>You can also access the data analysis documentation from the below link</i>
 
 <a href = "https://github.com/rashafathima/eodash_hackathon/blob/main/Documentation/data%20analysis%20documentation.pdf">Data Analysis</a>
+
+# Current Features
+
+### • The data of both layers of troposphere and priori of the column averaged dry air mole fraction of greenhouse gases over a certain period are all plotted on the same graph represented by lines of varying color 
+### • Availability of red indicators on the global map which shows the regions under threat / the regions that contribute the most to global warming 
+### • Ability to hover through the points on map and hence display the ppm level of greenhouse gases and status of that region in the past 24 hours  
+### • Ability to download the CSV files of the greenhouse gases(CO2 and CH4) for both layers of troposphere for a particular region
+
+# Future Scope
+
+### • Tool to draw a polygon/square over a certain region in map and determine its mean greenhouse gas(CO2 and CH4 ; possibly NO2 too ) emmission rate in the past 24 hours and display the current status of the region 
+### • A comparison graph to compare the greenhouse emission rate for any given years( the user has an option to select the years and compare between them ) 
+### • An option to display the future vision of a particular place(or the whole globe) by performing mathematical analysis over the data of past 5 years from that region.
+### • An option to change/select the dates and hence display the statistics during the selected time period.
