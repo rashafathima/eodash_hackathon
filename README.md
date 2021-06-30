@@ -15,3 +15,7 @@ This is source code will give you all an overview of what our project is.
 ### • Global Maps : The Global map gives a visualization of the green house gas emission rate in different regions. Red Indicators convey that the region has high mean rate and would be under threat if the same rate continues in the coming days. Green Indicators convey that the region has fair mean rate of greenhouse emission and the current level(in the past 24 hours) hasn't crossed the threshold limit. Moreover, by hovering through any region the user would be able to access additional data such as the mean rate of greenhouse gas emission (CO2 and CH4) in the past 30 days and also the status of greenhouse gas emssion rate in the past 24 hours(if the emission level passes beyond the threshold limit it would notify a red alert for the place). 
 
 <img src="images/gmap.png">
+
+### • Features : The feature option on the top right corner of the home page will redirect you to a HTML file which will give you a visualization of our project in the coming future. We would possibly integrate the data of NO2 with CH4 and CO2 in order to make our product more feasible and simple.
+
+<img src="images/fscope.png">
